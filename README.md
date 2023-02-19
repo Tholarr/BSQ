@@ -11,8 +11,8 @@ Just execute the following command :
 ## Usage
 Execute the program with the following command :
 
-    ./bsq maps-intermediate/...
+    ./bsq maps-intermediate/mouli_maps/...
 A lot of maps are disponible in the folder : 
- - maps-intermediate/
+ - maps-intermediate/mouli_maps/
 
 Just replace the previous 2nd argument with the right path
